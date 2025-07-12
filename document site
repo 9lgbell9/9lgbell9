@@ -1,0 +1,104 @@
+!<!DOCTYPE html> 
+<html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 25px;
+        }
+        .container {
+            max-width: 200px;
+            margin: 0 auto;
+        }
+        h1> Welcome to My Page 
+{
+             text-align: center;
+            font-family: Roboto;
+            margin-bottom: auto
+            ;
+       }
+        nav logo 
+        text area
+        <p> { Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            line-height: 1.5;
+        }
+    </style> p blue 
+    
+            
+            <script src="" async defer></script>
+        </body>
+    </html>
+    <nav class="<div class="test"></nav>/div>.test {color:red;}
+        <div id=""test></div>
+        <div id="test">color:blue;
+
+        </div>
+
+    </nav text-align;>
+    <body>
+        <div class="container">
+        <h1>Welcome to My Page</h1>
+        <p>This is a simple HTML document with some basic styling.</p>
+        <p>Feel free to explore and modify the code!</p>
+        </div>
+    You Got This!
+        <div class="test">This is a test paragraph with red text.</div>
+        </  div>div class="test">This is a test paragraph with red text.</div>
+        <div id="test">This is another test paragraph with blue text.</div>
+        <div class="container">
+        <div class="container">     
+            <h1>Welcome to My Page</h1>
+            <p>This is a simple HTML document with some basic styling.</p>
+            <p>Feel free to explore and modify the <code!></code!>
+            </p class   
+            div = class__description
+        <style>   
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 25px;
+            background-color: #f4f4f4;
+            }
+    </style>    
+    </head> 
+
+    <script> {
+        }   
+        document.addEventListener("DOMContentLoaded", function() {
+            console.log("DOM fully loaded and parsed");
+        });
+ transform: animation Float 2s ease-in-out infinite; 
+        document.querySelectorAll('.test').forEach(function(element) {
+            element.style.color = 'red';
+        });
+        document.querySelectorAll('#test').forEach(function(element) {
+            element.style.color = 'blue';
+        });
+
+    </body>
+    flex-direction: column;
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+        .test {
+            color: red;
+        }
+        #test {
+            color: blue;
+        }
+    <figure>class--wrapper {width:  40%
+        div class__description; 
+         <figure> 
+            padding: 0 24 px;
+            flex-direction: spce-between;
+            align-items: center;
+            justify-content: center;
